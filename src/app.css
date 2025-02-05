@@ -1,0 +1,22 @@
+:root {
+  --primary-color: #B3E3FA;
+  --darker-blue: #81CBF0;
+}
+
+body {
+  font-family: Nunito, sans-serif;
+  background-color: var(--primary-color);
+  color: #333;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+}
+
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px 0;
+  color: white;
+}
